@@ -237,7 +237,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6l5MREvX_OG3wZn98kag-57" value="拒绝输入" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="6l5MREvX_OG3wZn98kag-57" value="拒绝输入" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="227" y="476" width="143.5" height="66" as="geometry" />
         </mxCell>
       </root>
