@@ -229,6 +229,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6l5MREvX_OG3wZn98kag-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-82" target="6l5MREvX_OG3wZn98kag-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-82" value="调用另一个Agent验证是否出自知识库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="641" y="1273" width="80" height="80" as="geometry" />
         </mxCell>
