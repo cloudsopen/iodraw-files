@@ -63,10 +63,10 @@
           <mxGeometry x="377" y="905" width="127" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-14" value="生成Cypher查询语句" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="570" y="807" width="206" height="48" as="geometry" />
+          <mxGeometry x="608.5" y="811" width="206" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-15" value="执行查询 + 缓存穿透防护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="554" y="914" width="238" height="48" as="geometry" />
+          <mxGeometry x="592.5" y="916" width="238" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-16" value="汇总检索结果 + Agent推理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="297" y="1021" width="247" height="48" as="geometry" />
