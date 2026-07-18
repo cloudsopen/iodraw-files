@@ -240,7 +240,7 @@
             <mxPoint x="726" y="1035" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6l5MREvX_OG3wZn98kag-54" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6l5MREvX_OG3wZn98kag-53">
+        <mxCell id="6l5MREvX_OG3wZn98kag-54" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6l5MREvX_OG3wZn98kag-53">
           <mxGeometry x="-0.3364" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
