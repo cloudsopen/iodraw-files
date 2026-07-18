@@ -104,16 +104,16 @@
           <mxGeometry x="385" y="1521" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-20" value="生成结构化SOP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="219" y="1593" width="155" height="49" as="geometry" />
+          <mxGeometry x="7.5" y="1788" width="155" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-21" value="保存对话记录到数据库" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="406" y="1589" width="220" height="48" as="geometry" />
+          <mxGeometry x="296.5" y="1771" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-22" value="用户反馈&#xa;有用/无用/指正" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="429.5" y="1679" width="173" height="66" as="geometry" />
+          <mxGeometry x="337" y="1842" width="173" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-23" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1804" width="92" height="48" as="geometry" />
+          <mxGeometry x="516.5" y="1978" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-1" target="6l5MREvX_OG3wZn98kag-2">
           <mxGeometry relative="1" as="geometry">
