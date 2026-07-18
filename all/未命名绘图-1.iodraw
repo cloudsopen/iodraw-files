@@ -98,7 +98,7 @@
           <mxGeometry x="379" y="1039" width="247" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-17" value="调用DashScope大模型生成回复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="207" y="1273" width="247" height="66" as="geometry" />
+          <mxGeometry x="206" y="1280" width="247" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-19" value="生成&#xa;SOP?" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="385" y="1521" width="49" height="49" as="geometry" />
@@ -220,6 +220,14 @@
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-81" value="调用另一个Agent验证是否出自知识库" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="613" y="1521" width="212" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="6l5MREvX_OG3wZn98kag-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-82" target="6l5MREvX_OG3wZn98kag-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6l5MREvX_OG3wZn98kag-84" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6l5MREvX_OG3wZn98kag-83">
+          <mxGeometry x="-0.0346" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-82" value="调用另一个Agent验证是否出自知识库" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="641" y="1273" width="80" height="80" as="geometry" />
