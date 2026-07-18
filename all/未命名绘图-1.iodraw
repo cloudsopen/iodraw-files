@@ -40,7 +40,7 @@
         <mxCell id="6l5MREvX_OG3wZn98kag-12" value="中0.5-0.8&#xa;补充生成" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="905" width="127" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="6l5MREvX_OG3wZn98kag-13" value="低&amp;lt;0.5&#xa;回退通用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="6l5MREvX_OG3wZn98kag-13" value="低&lt;0.5&#xa;回退通用" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="377" y="905" width="127" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-14" value="生成Cypher查询语句" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -238,6 +238,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="676" y="1085" as="sourcePoint" />
             <mxPoint x="726" y="1035" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6l5MREvX_OG3wZn98kag-54" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6l5MREvX_OG3wZn98kag-53">
+          <mxGeometry x="-0.3364" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
