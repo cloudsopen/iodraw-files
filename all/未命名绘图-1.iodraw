@@ -222,6 +222,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6l5MREvX_OG3wZn98kag-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="544" y="1049" as="sourcePoint" />
+            <mxPoint x="594" y="999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
