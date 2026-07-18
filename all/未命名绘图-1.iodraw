@@ -23,7 +23,7 @@
           <mxGeometry x="370.5" y="355" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-6" value="构建对话上下文&#xa;历史消息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="383" y="476" width="172" height="66" as="geometry" />
+          <mxGeometry x="413" y="476" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-7" value="LangGraph ReAct Agent 推理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="355" y="592" width="228" height="66" as="geometry" />
