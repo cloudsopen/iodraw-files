@@ -188,7 +188,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-50" value="调用另一个Agent验证是否出自知识库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="648" y="1276" width="120" height="60" as="geometry" />
+          <mxGeometry x="648" y="1276" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-52" target="6l5MREvX_OG3wZn98kag-17">
           <mxGeometry relative="1" as="geometry" />
@@ -196,19 +196,11 @@
         <mxCell id="6l5MREvX_OG3wZn98kag-52" value="是否有关专业教学" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="462.5" y="1127" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6l5MREvX_OG3wZn98kag-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-52" target="6l5MREvX_OG3wZn98kag-50">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="676" y="1085" as="sourcePoint" />
-            <mxPoint x="726" y="1035" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6l5MREvX_OG3wZn98kag-54" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="6l5MREvX_OG3wZn98kag-53">
-          <mxGeometry x="-0.3364" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-57" value="拒绝输入" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="227" y="476" width="143.5" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="6l5MREvX_OG3wZn98kag-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.543;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-52" target="6l5MREvX_OG3wZn98kag-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
