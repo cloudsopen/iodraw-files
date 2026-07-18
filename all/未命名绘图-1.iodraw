@@ -187,7 +187,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6l5MREvX_OG3wZn98kag-50" value="调用另一个Agent验证是否出自知识库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6l5MREvX_OG3wZn98kag-50" value="调用另一个Agent验证是否出自知识库" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="566" y="1276" width="212" height="65" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-52" target="6l5MREvX_OG3wZn98kag-17">
@@ -199,8 +199,10 @@
         <mxCell id="6l5MREvX_OG3wZn98kag-57" value="拒绝输入" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;shadow=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="227" y="476" width="143.5" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="6l5MREvX_OG3wZn98kag-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.543;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-52" target="6l5MREvX_OG3wZn98kag-50">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="6l5MREvX_OG3wZn98kag-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="681" y="1275" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
