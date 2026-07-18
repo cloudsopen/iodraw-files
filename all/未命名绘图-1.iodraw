@@ -35,6 +35,9 @@
         <mxCell id="6l5MREvX_OG3wZn98kag-6" value="构建对话上下文&#xa;历史消息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="413" y="476" width="172" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="6l5MREvX_OG3wZn98kag-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-7" target="6l5MREvX_OG3wZn98kag-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-7" value="LangGraph ReAct Agent 推理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="385" y="592" width="228" height="66" as="geometry" />
         </mxCell>
@@ -104,20 +107,6 @@
         <mxCell id="6l5MREvX_OG3wZn98kag-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-6" target="6l5MREvX_OG3wZn98kag-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6l5MREvX_OG3wZn98kag-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-7" target="6l5MREvX_OG3wZn98kag-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="264" y="683" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6l5MREvX_OG3wZn98kag-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-7" target="6l5MREvX_OG3wZn98kag-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="673" y="683" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-8" target="6l5MREvX_OG3wZn98kag-10">
