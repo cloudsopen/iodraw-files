@@ -69,7 +69,7 @@
           <mxGeometry x="592.5" y="916" width="238" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-16" value="汇总检索结果 + Agent推理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="297" y="1021" width="247" height="48" as="geometry" />
+          <mxGeometry x="361.5" y="1026" width="247" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-17" value="调用DashScope大模型生成回复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="297" y="1119" width="247" height="66" as="geometry" />
@@ -226,7 +226,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-52" value="是否有关专业教学" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="637" y="1005" width="80" height="80" as="geometry" />
+          <mxGeometry x="835" y="1119" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-52" target="6l5MREvX_OG3wZn98kag-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
