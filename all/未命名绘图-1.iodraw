@@ -50,6 +50,15 @@
         <mxCell id="6l5MREvX_OG3wZn98kag-9" value="Neo4j 图谱查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="626" y="708" width="171" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="6l5MREvX_OG3wZn98kag-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-10" target="6l5MREvX_OG3wZn98kag-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6l5MREvX_OG3wZn98kag-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-10" target="6l5MREvX_OG3wZn98kag-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6l5MREvX_OG3wZn98kag-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-10" target="6l5MREvX_OG3wZn98kag-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-10" value="三级置信度评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="178" y="807" width="172" height="48" as="geometry" />
         </mxCell>
