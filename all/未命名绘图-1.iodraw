@@ -174,11 +174,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6l5MREvX_OG3wZn98kag-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-16" target="6l5MREvX_OG3wZn98kag-17">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-17" target="6l5MREvX_OG3wZn98kag-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -213,14 +208,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6l5MREvX_OG3wZn98kag-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="544" y="1044" as="sourcePoint" />
-            <mxPoint x="638" y="1044" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-50" value="调用另一个Agent验证是否出自知识库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="617" y="1129" width="120" height="60" as="geometry" />
+          <mxGeometry x="809" y="1282" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-52" target="6l5MREvX_OG3wZn98kag-17">
           <mxGeometry relative="1" as="geometry" />
