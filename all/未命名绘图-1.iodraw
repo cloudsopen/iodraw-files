@@ -221,11 +221,8 @@
         <mxCell id="6l5MREvX_OG3wZn98kag-18" value="SSE流式输出&#xa;逐字返回" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="241" y="1448" width="148" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="6l5MREvX_OG3wZn98kag-79" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="666" y="1431" as="sourcePoint" />
-            <mxPoint x="716" y="1381" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="6l5MREvX_OG3wZn98kag-81" value="调用另一个Agent验证是否出自知识库" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="576" y="1286" width="212" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
