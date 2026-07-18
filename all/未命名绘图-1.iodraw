@@ -69,7 +69,7 @@
           <mxGeometry x="592.5" y="916" width="238" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-16" value="汇总检索结果 + Agent推理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="361.5" y="1026" width="247" height="48" as="geometry" />
+          <mxGeometry x="370.5" y="1038" width="247" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-17" value="调用DashScope大模型生成回复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="43" y="1226" width="247" height="66" as="geometry" />
