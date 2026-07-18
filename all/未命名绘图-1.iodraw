@@ -91,6 +91,9 @@
         <mxCell id="6l5MREvX_OG3wZn98kag-15" value="执行查询 + 缓存穿透防护" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="592.5" y="916" width="238" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="6l5MREvX_OG3wZn98kag-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-16" target="6l5MREvX_OG3wZn98kag-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-16" value="汇总检索结果 + Agent推理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="379" y="1039" width="247" height="48" as="geometry" />
         </mxCell>
@@ -193,7 +196,7 @@
         <mxCell id="6l5MREvX_OG3wZn98kag-52" value="是否有关专业教学" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="462.5" y="1127" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6l5MREvX_OG3wZn98kag-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-52" target="6l5MREvX_OG3wZn98kag-50">
+        <mxCell id="6l5MREvX_OG3wZn98kag-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6l5MREvX_OG3wZn98kag-52" target="6l5MREvX_OG3wZn98kag-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="676" y="1085" as="sourcePoint" />
             <mxPoint x="726" y="1035" as="targetPoint" />
