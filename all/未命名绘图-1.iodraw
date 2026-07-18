@@ -101,7 +101,7 @@
           <mxGeometry x="206" y="1280" width="247" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-19" value="生成&#xa;SOP?" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="385" y="1521" width="49" height="49" as="geometry" />
+          <mxGeometry x="305" y="1596" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-20" value="生成结构化SOP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="7.5" y="1788" width="155" height="49" as="geometry" />
