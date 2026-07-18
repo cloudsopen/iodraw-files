@@ -72,13 +72,13 @@
           <mxGeometry x="361.5" y="1026" width="247" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-17" value="调用DashScope大模型生成回复" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="297" y="1119" width="247" height="66" as="geometry" />
+          <mxGeometry x="43" y="1226" width="247" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-18" value="SSE流式输出&#xa;逐字返回" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="347" y="1235" width="148" height="66" as="geometry" />
+          <mxGeometry x="190" y="1351" width="148" height="66" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-19" value="生成&#xa;SOP?" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="396" y="1351" width="49" height="49" as="geometry" />
+          <mxGeometry x="385" y="1389" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6l5MREvX_OG3wZn98kag-20" value="生成结构化SOP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="219" y="1473" width="155" height="49" as="geometry" />
